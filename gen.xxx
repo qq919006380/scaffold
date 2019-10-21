@@ -1,7 +1,7 @@
 module.exports = class book {
   
-    name: string,
+    a: q,
   
-    coordinates: string,
+    b: s,
   
 }
